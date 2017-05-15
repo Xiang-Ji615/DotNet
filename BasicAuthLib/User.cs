@@ -10,6 +10,7 @@ namespace BasicAuthLib
     {
         String username;
 
+
         public string Username { get => username; set => username = value; }
     }
 }
